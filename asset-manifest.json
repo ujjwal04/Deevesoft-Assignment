@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Deevesoft-Assignment/static/css/main.21866e0c.chunk.css",
+    "main.js": "/Deevesoft-Assignment/static/js/main.63b8ccba.chunk.js",
+    "main.js.map": "/Deevesoft-Assignment/static/js/main.63b8ccba.chunk.js.map",
+    "runtime-main.js": "/Deevesoft-Assignment/static/js/runtime-main.1fc21a43.js",
+    "runtime-main.js.map": "/Deevesoft-Assignment/static/js/runtime-main.1fc21a43.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Deevesoft-Assignment/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f095685b.chunk.js": "/Deevesoft-Assignment/static/js/2.f095685b.chunk.js",
+    "static/js/2.f095685b.chunk.js.map": "/Deevesoft-Assignment/static/js/2.f095685b.chunk.js.map",
+    "index.html": "/Deevesoft-Assignment/index.html",
+    "precache-manifest.64d0f6f765edc14848bc0d00d2ad4562.js": "/Deevesoft-Assignment/precache-manifest.64d0f6f765edc14848bc0d00d2ad4562.js",
+    "service-worker.js": "/Deevesoft-Assignment/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Deevesoft-Assignment/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.21866e0c.chunk.css.map": "/Deevesoft-Assignment/static/css/main.21866e0c.chunk.css.map",
+    "static/js/2.f095685b.chunk.js.LICENSE.txt": "/Deevesoft-Assignment/static/js/2.f095685b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Deevesoft-Assignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fc21a43.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f095685b.chunk.js",
+    "static/css/main.21866e0c.chunk.css",
+    "static/js/main.63b8ccba.chunk.js"
+  ]
+}
